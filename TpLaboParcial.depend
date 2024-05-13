@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1715552482 source:c:\users\usuario\desktop\tp labo parcial\tplaboparcial\main.cpp
+	<iostream>
+	<cstring>
+	<cstring>
+	"clsFecha.h"
+	"clsEmpresa.h"
+	"clsArchivoEmpresa.h"
+	"funciones.h"
+	"clsMunicipios.h"
+	"clsArchivoMunicipios.h"
+	"Menus.h"
+
+1715548574 c:\users\usuario\desktop\tp labo parcial\tplaboparcial\clsfecha.h
+	<ctime>
+
+1715559983 c:\users\usuario\desktop\tp labo parcial\tplaboparcial\menus.h
+
+1715550951 c:\users\usuario\desktop\tp labo parcial\tplaboparcial\clsempresa.h
+
+1715551434 c:\users\usuario\desktop\tp labo parcial\tplaboparcial\clsarchivoempresa.h
+
+1715374768 c:\users\usuario\desktop\tp labo parcial\tplaboparcial\funciones.h
+
+1715557504 c:\users\usuario\desktop\tp labo parcial\tplaboparcial\clsmunicipios.h
+
+1715559524 c:\users\usuario\desktop\tp labo parcial\tplaboparcial\clsarchivomunicipios.h
+
